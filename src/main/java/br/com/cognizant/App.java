@@ -1,6 +1,6 @@
-package br.com.cognizant.cog;
+package br.com.cognizant;
 
-public class Test {
+public class App {
 
 	public static void main(String[] args) {
 		
