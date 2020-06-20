@@ -1,4 +1,4 @@
-package br.com.cognizant.teste;
+package br.com.cognizant;
 import org.junit.Test;
 
 
